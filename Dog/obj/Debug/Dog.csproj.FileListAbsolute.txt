@@ -1,0 +1,9 @@
+c:\users\conno\onedrive\documents\visual studio 2017\Projects\Dog\obj\Debug\Dog.csprojResolveAssemblyReference.cache
+c:\users\conno\onedrive\documents\visual studio 2017\Projects\Dog\obj\Debug\Dog.Form1.resources
+c:\users\conno\onedrive\documents\visual studio 2017\Projects\Dog\obj\Debug\Dog.Properties.Resources.resources
+c:\users\conno\onedrive\documents\visual studio 2017\Projects\Dog\obj\Debug\Dog.csproj.GenerateResource.Cache
+c:\users\conno\onedrive\documents\visual studio 2017\Projects\Dog\bin\Debug\Dog.exe.config
+c:\users\conno\onedrive\documents\visual studio 2017\Projects\Dog\bin\Debug\Dog.exe
+c:\users\conno\onedrive\documents\visual studio 2017\Projects\Dog\bin\Debug\Dog.pdb
+c:\users\conno\onedrive\documents\visual studio 2017\Projects\Dog\obj\Debug\Dog.exe
+c:\users\conno\onedrive\documents\visual studio 2017\Projects\Dog\obj\Debug\Dog.pdb
